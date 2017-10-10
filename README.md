@@ -1,3 +1,3 @@
-# php 课堂代码
-### 在master主线中,不会有任何的内容
-### 每个知识点会以分支的形式上传
+# php 变量/数据类型/常量
+### 数据类型 String Integer Float Boolean Array Object Resource(函数)
+### 运算符/字符串的拼接/转义字符
