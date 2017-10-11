@@ -1,3 +1,4 @@
-# php 课堂代码
-### 在master主线中,不会有任何的内容
-### 每个知识点会以分支的形式上传
+# lesson-8 日期
+### php中的日期函数
+### day/month/year/day of week/hour/minute/seconds/AM or PM/
+### 设置时区/时间戳/字符串转时间
