@@ -1,0 +1,174 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+}
+a{
+	text-decoration: none;
+}
+.clearfix:after{
+	content:" ";
+	display: block;
+	height: 0;
+	clear: both;
+}
+.clearfix{
+	zoom: 1;
+}
+.wenben{
+	/*border: 1px solid blue;*/
+	overflow: hidden;
+}
+.wb-left,.wb-right{
+	float: left;
+	height: 600px;
+}
+.wb-left{
+	border: 1px solid #ddd;
+	width: 320px;
+}
+.wb-right{
+	padding: 20px 0 0 0;
+	margin-left: 20px;
+	width: 420px;
+}
+.wb-active{
+	width: 320px;
+}
+.addWenbenWrap{
+	border: 1px dashed rgb(75,101,152);
+	padding: 10px 0;
+}
+
+/* 基础组件 */
+.wb-left .basicComponents{
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px 10px;
+	position: relative;
+}
+.wb-bc{
+	color: rgb(68,68,68);
+	margin-bottom: 10px;
+}
+.wb-btn p{
+	width: 100px;
+	height: 30px;
+	cursor: pointer;
+	display: inline-block;
+	text-align: center;
+	line-height: 30px;
+	border: 1px dashed #ddd;
+	color: rgb(135,135,135);
+}
+
+
+/* 右部分内容 */
+.wb-edit{
+	padding: 10px 10px;
+	width: 100%;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	position: relative;
+}
+.tri{
+	position: absolute;
+	border-left: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	background: #ffffff;
+	width: 12px;
+	height: 12px;
+	transform: rotateZ(45deg);
+	left: -7px;
+}
+.wb-line{
+	background: #ddd;
+	height: 1px;
+	margin-bottom: 10px;
+}
+/* 文本编辑内容 */
+.wb-con{
+	padding: 10px 0 10px 40px;
+}
+.wb-con label{
+	margin-right: 6px;
+	color:rgb(79,80,80);
+}
+.wb-con>div{
+	margin-bottom: 20px;
+}
+.wb-con-text{
+	padding-left: 12px;
+}
+.wb-con-text label{
+	vertical-align: top;
+}
+.wb-con-text label i{
+	vertical-align: top;
+	color: red;
+}
+.wb-con-text textarea{
+	padding: 10px;
+	outline: none;
+}
+.wb-con-text textarea:focus{
+	border:1px solid rgb(75,101,152);
+	box-shadow: 1px 1px 1px rgb(197,226,247),-1px -1px 1px rgb(197,226,247);
+}
+.wb-con-size span,.wb-con-displayPosition span{
+	margin-right: 15px;
+}
+.textColor-span{
+	border: 1px solid #ddd;
+	margin-right: 22px;
+	padding: 3px 5px 6px 5px;
+}
+#inp-textColor{
+	background: #000000;
+	width: 35px;
+	height: 18px;
+}
+#inp-bgColor{
+	background: #ffffff;
+	width: 35px;
+	height: 18px;
+}
+.textColor-reset,.bgColor-reset{
+	border: 1px solid #ddd;
+	padding: 3px 10px 5px 10px;
+}
+.wb-con-link .wb-con-link-address{
+	display: inline-block;
+}
+.tl{
+	text-align: left;
+}
+.tc{
+	text-align: center;
+}
+.tr{
+	text-align: right;
+}
+.label-address{
+	vertical-align: top;
+	margin-left: 26px;
+}
+.p-address{
+	cursor: pointer;
+	color: 	#6495ED;
+}
+.div-address{
+	display: none;
+}
+.div-address p{
+	padding: 5px 0 4px 10px;
+	color: rgb(68,68,68)
+}
+.div-address p:hover{
+	background: rgb(48,131,255);
+	color: #ffffff;
+}
+
+
+
+

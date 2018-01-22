@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="http://libs.baidu.com/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+	<h1>会员列表</h1>
+	<b><a href="__CONTROLLER__/add">添加会员</a></b>
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tr>
+			<td>编号</td>
+			<td>用户名</td>
+			<td>密码</td>
+			<td>性别</td>
+			<td>年龄</td>
+			<td>操作</td>
+		</tr>
+		<volist name="rows" id="vo">
+			<tr id="id_{$vo.id}">
+				<td>{$vo.id}</td>
+				<td>{$vo.name}</td>
+				<td>{$vo.pass}</td>
+				<td>
+					{$vo['sex'] == 1?'男':'女'}
+				</td>
+				<td>{$vo.age}</td>
+				<td> <a href="__CONTROLLER__/edit/id/{$vo.id}">编辑</a>| <a href="javascript:del({$vo.id});">删除</a></td>
+			</tr>
+		</volist>
+	</table>
+</body>
+<script>
+	function del(id){
+		var bool = confirm('您确定要删除吗?');
+		if(bool){
+			// 执行删除
+			$.get('__CONTROLLER__/del',{id:id},function(data){
+				// 回调函数
+				// alert(data.status);
+				if(data.status == 1){
+					alert(data.msg);
+					// 删除元素
+					$('#id_'+id).remove();
+				} else {
+					alert(data.msg);
+				}
+			},'json')
+		}
+	}
+</script>
+</html>
+
+

@@ -1,0 +1,5 @@
+[ 2018-01-12T09:40:52+08:00 ] ::1 /phpLearning/2018-01-03/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+

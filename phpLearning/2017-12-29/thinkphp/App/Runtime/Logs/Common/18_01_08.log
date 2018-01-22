@@ -1,0 +1,1020 @@
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/css/animate.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Css
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-20.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-18.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:Js
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-16.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004631s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-17.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002761s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015815s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006787s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002703s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/geng4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xblue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004364s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xgreen.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015831s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xyellow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003746s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:54:39+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-20.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/css/animate.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:Css
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:Js
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-17.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011313s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-16.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002615s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/geng4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-18.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xblue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xyellow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002552s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xgreen.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:55:52+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-20.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-18.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005368s ]
+ERR: 无法加载模块:Js
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-16.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-17.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002003s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003764s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004072s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004788s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/geng4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xblue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xgreen.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xyellow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:03+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-20.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-18.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Js
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-17.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-16.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002288s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001662s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004711s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003171s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/geng4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008680s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002359s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xblue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xgreen.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xyellow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001571s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:47+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-18.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010085s ]
+ERR: 无法加载模块:Js
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-16.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013378s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-17.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006070s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-20.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/geng4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xblue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xgreen.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003660s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xyellow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010020s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:56:49+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Js
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-18.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-16.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008048s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002974s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-17.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002417s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/gou3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003049s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/tong2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/geng4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xing3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xblue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xgreen.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002677s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:57:08+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/xyellow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012590s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:27+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Js
+
+[ 2018-01-08T21:58:27+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:27+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:27+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002670s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:27+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:27+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004252s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:41+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003582s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003852s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:41+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:41+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:41+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:58:41+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:59:59+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:59:59+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:59:59+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T21:59:59+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/cc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T22:00:21+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/download-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T22:00:21+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T22:00:33+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+ERR: 无法加载模块:Img
+
+[ 2018-01-08T22:00:34+08:00 ] ::1 /phpLearning/2017-12-29/thinkphp/img/dingwei.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载模块:Img
+

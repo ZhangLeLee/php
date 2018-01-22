@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>edit</title>
+</head>
+<body>
+	<h1>编辑会员</h1>
+	<form action="__CONTROLLER__/editAction" method="post">
+		用户名:<input type="text" name="name" value="{$row.name}"><br>
+		年龄:<input type="age" name="age"  value="{$row.age}"><br>
+		性别:<input type="radio" name="sex" value="1" <eq name="row['sex']" value="1">checked="checked"</eq>>男
+		<input type="radio" name="sex" value="2" <eq name="row['sex']" value="2">checked="checked"</eq>>女<br>
+		<input type="hidden" name="id" value="{$Think.get.id}">
+		<input type="submit" value="编辑">
+	</form>
+</body>
+</html>

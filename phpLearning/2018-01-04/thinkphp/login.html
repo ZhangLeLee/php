@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>登录</title>
+	<script src="http://libs.baidu.com/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+	
+	用户名:<input type="text" name="name" id="name"><br>
+	密码:<input type="password" name="pass" id="pass"><br>
+	<input type="button" id="btn" value="登录">
+
+</body>
+<script>
+	$('#btn').click(function(){
+		var name = $('#name').val();
+		var pass = $('#pass').val();
+		$.post('http://localhost/phpLearning/2018-01-04/thinkphp/Home/User/loginApi',{name:name,pass:pass},function(data){
+			if(data.status=='1'){
+				alert(data.msg);
+				// 如果需要跳转页面
+
+			}else{
+				alert(data.msg);
+				// 如果需要跳转页面
+			}
+		},'json');
+	})
+</script>
+</html>
+
+
+
+
